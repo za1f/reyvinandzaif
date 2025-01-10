@@ -3,5 +3,6 @@ public class Main {
         System.out.println("greetings");
         System.out.println("Zaif aint single");
         System.out.println("Reyvin is single");
+        System.out.println("Zaif loves taco bell");
     }
 }
