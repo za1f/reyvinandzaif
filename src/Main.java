@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Zaif loves his gf");
         System.out.println("Reyvin is so tall and nonchalant");
         System.out.println("Tejo is broken");
+        System.out.println("Reyvin wants to play val");
+        System.out.println("Reyvin wants to play val");
     }
 }
